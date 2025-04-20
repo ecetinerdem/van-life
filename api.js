@@ -12,14 +12,7 @@ import {
 
 
 
-const firebaseConfig = {
-    apiKey: "AIzaSyAEDPVbU4thGYmgE7MpYxtNOqV3M4tfPkg",
-    authDomain: "vanlife-f95ca.firebaseapp.com",
-    projectId: "vanlife-f95ca",
-    storageBucket: "vanlife-f95ca.firebasestorage.app",
-    messagingSenderId: "144312068201",
-    appId: "1:144312068201:web:84a6f9b197d8f4930fdaf8"
-};
+
 
 
 
